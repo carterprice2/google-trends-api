@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "google-trends-api"
+version = "0.1.0"
+description = "Google Trends API for Python: a maintained pytrends alternative (interest over time, by region, related queries)"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+keywords = ["google trends", "google trends api", "pytrends", "pytrends alternative", "seo", "keyword research"]
+
+[project.optional-dependencies]
+pandas = ["pandas>=1.5"]
+
+[project.urls]
+Homepage = "https://github.com/carterprice2/google-trends-api"
+Scraper = "https://apify.com/seodatalab/google-trends-scraper"
+
+[tool.setuptools]
+packages = ["google_trends_api"]

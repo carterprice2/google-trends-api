@@ -1,0 +1,1775 @@
+[{
+  "searchTerm": "iphone, samsung galaxy",
+  "keywords": [
+    "iphone",
+    "samsung galaxy"
+  ],
+  "geo": "US",
+  "timeRange": "today 3-m",
+  "property": "web",
+  "category": 0,
+  "interestOverTime": [
+    {
+      "date": "2026-08-03T00:00:00.000Z",
+      "formattedTime": "Aug 3, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 46,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-04T00:00:00.000Z",
+      "formattedTime": "Aug 4, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-05T00:00:00.000Z",
+      "formattedTime": "Aug 5, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-06T00:00:00.000Z",
+      "formattedTime": "Aug 6, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 47,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-07T00:00:00.000Z",
+      "formattedTime": "Aug 7, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-08T00:00:00.000Z",
+      "formattedTime": "Aug 8, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 45,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-09T00:00:00.000Z",
+      "formattedTime": "Aug 9, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 44,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-10T00:00:00.000Z",
+      "formattedTime": "Aug 10, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-11T00:00:00.000Z",
+      "formattedTime": "Aug 11, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-12T00:00:00.000Z",
+      "formattedTime": "Aug 12, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-13T00:00:00.000Z",
+      "formattedTime": "Aug 13, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-14T00:00:00.000Z",
+      "formattedTime": "Aug 14, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-15T00:00:00.000Z",
+      "formattedTime": "Aug 15, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-16T00:00:00.000Z",
+      "formattedTime": "Aug 16, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-17T00:00:00.000Z",
+      "formattedTime": "Aug 17, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-18T00:00:00.000Z",
+      "formattedTime": "Aug 18, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-19T00:00:00.000Z",
+      "formattedTime": "Aug 19, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-20T00:00:00.000Z",
+      "formattedTime": "Aug 20, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-21T00:00:00.000Z",
+      "formattedTime": "Aug 21, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-22T00:00:00.000Z",
+      "formattedTime": "Aug 22, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-23T00:00:00.000Z",
+      "formattedTime": "Aug 23, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-24T00:00:00.000Z",
+      "formattedTime": "Aug 24, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-25T00:00:00.000Z",
+      "formattedTime": "Aug 25, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-26T00:00:00.000Z",
+      "formattedTime": "Aug 26, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-08-27T00:00:00.000Z",
+      "formattedTime": "Aug 27, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 39,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-28T00:00:00.000Z",
+      "formattedTime": "Aug 28, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-29T00:00:00.000Z",
+      "formattedTime": "Aug 29, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-30T00:00:00.000Z",
+      "formattedTime": "Aug 30, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-08-31T00:00:00.000Z",
+      "formattedTime": "Aug 31, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-01T00:00:00.000Z",
+      "formattedTime": "Sep 1, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-02T00:00:00.000Z",
+      "formattedTime": "Sep 2, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-03T00:00:00.000Z",
+      "formattedTime": "Sep 3, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 45,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-04T00:00:00.000Z",
+      "formattedTime": "Sep 4, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-05T00:00:00.000Z",
+      "formattedTime": "Sep 5, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 44,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-06T00:00:00.000Z",
+      "formattedTime": "Sep 6, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 46,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-07T00:00:00.000Z",
+      "formattedTime": "Sep 7, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 49,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-08T00:00:00.000Z",
+      "formattedTime": "Sep 8, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 47,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-09T00:00:00.000Z",
+      "formattedTime": "Sep 9, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 95,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-10T00:00:00.000Z",
+      "formattedTime": "Sep 10, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 100,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-11T00:00:00.000Z",
+      "formattedTime": "Sep 11, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 68,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-12T00:00:00.000Z",
+      "formattedTime": "Sep 12, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 75,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-13T00:00:00.000Z",
+      "formattedTime": "Sep 13, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 60,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-14T00:00:00.000Z",
+      "formattedTime": "Sep 14, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 57,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-15T00:00:00.000Z",
+      "formattedTime": "Sep 15, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 55,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-16T00:00:00.000Z",
+      "formattedTime": "Sep 16, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 52,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-17T00:00:00.000Z",
+      "formattedTime": "Sep 17, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 61,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-18T00:00:00.000Z",
+      "formattedTime": "Sep 18, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 66,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-19T00:00:00.000Z",
+      "formattedTime": "Sep 19, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 74,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-20T00:00:00.000Z",
+      "formattedTime": "Sep 20, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 74,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-21T00:00:00.000Z",
+      "formattedTime": "Sep 21, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 56,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-22T00:00:00.000Z",
+      "formattedTime": "Sep 22, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 49,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-23T00:00:00.000Z",
+      "formattedTime": "Sep 23, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 47,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-24T00:00:00.000Z",
+      "formattedTime": "Sep 24, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 44,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-25T00:00:00.000Z",
+      "formattedTime": "Sep 25, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-26T00:00:00.000Z",
+      "formattedTime": "Sep 26, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 48,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-27T00:00:00.000Z",
+      "formattedTime": "Sep 27, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 47,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-28T00:00:00.000Z",
+      "formattedTime": "Sep 28, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-29T00:00:00.000Z",
+      "formattedTime": "Sep 29, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-09-30T00:00:00.000Z",
+      "formattedTime": "Sep 30, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-01T00:00:00.000Z",
+      "formattedTime": "Oct 1, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-02T00:00:00.000Z",
+      "formattedTime": "Oct 2, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-03T00:00:00.000Z",
+      "formattedTime": "Oct 3, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-04T00:00:00.000Z",
+      "formattedTime": "Oct 4, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-05T00:00:00.000Z",
+      "formattedTime": "Oct 5, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 39,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-06T00:00:00.000Z",
+      "formattedTime": "Oct 6, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-07T00:00:00.000Z",
+      "formattedTime": "Oct 7, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 39,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-08T00:00:00.000Z",
+      "formattedTime": "Oct 8, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 39,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-09T00:00:00.000Z",
+      "formattedTime": "Oct 9, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-10T00:00:00.000Z",
+      "formattedTime": "Oct 10, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-11T00:00:00.000Z",
+      "formattedTime": "Oct 11, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-12T00:00:00.000Z",
+      "formattedTime": "Oct 12, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-10-13T00:00:00.000Z",
+      "formattedTime": "Oct 13, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-14T00:00:00.000Z",
+      "formattedTime": "Oct 14, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 39,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "date": "2026-10-15T00:00:00.000Z",
+      "formattedTime": "Oct 15, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-16T00:00:00.000Z",
+      "formattedTime": "Oct 16, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 51,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-17T00:00:00.000Z",
+      "formattedTime": "Oct 17, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 45,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-18T00:00:00.000Z",
+      "formattedTime": "Oct 18, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-19T00:00:00.000Z",
+      "formattedTime": "Oct 19, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-20T00:00:00.000Z",
+      "formattedTime": "Oct 20, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-21T00:00:00.000Z",
+      "formattedTime": "Oct 21, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-22T00:00:00.000Z",
+      "formattedTime": "Oct 22, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-23T00:00:00.000Z",
+      "formattedTime": "Oct 23, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 48,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-24T00:00:00.000Z",
+      "formattedTime": "Oct 24, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 52,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-25T00:00:00.000Z",
+      "formattedTime": "Oct 25, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 47,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "formattedTime": "Oct 26, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-27T00:00:00.000Z",
+      "formattedTime": "Oct 27, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-28T00:00:00.000Z",
+      "formattedTime": "Oct 28, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 40,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-29T00:00:00.000Z",
+      "formattedTime": "Oct 29, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 39,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-30T00:00:00.000Z",
+      "formattedTime": "Oct 30, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 37,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-10-31T00:00:00.000Z",
+      "formattedTime": "Oct 31, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 42,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-11-01T00:00:00.000Z",
+      "formattedTime": "Nov 1, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 43,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-11-02T00:00:00.000Z",
+      "formattedTime": "Nov 2, 2026",
+      "isPartial": false,
+      "values": {
+        "iphone": 38,
+        "samsung galaxy": 2
+      }
+    },
+    {
+      "date": "2026-11-03T00:00:00.000Z",
+      "formattedTime": "Nov 3, 2026",
+      "isPartial": true,
+      "values": {
+        "iphone": 41,
+        "samsung galaxy": 1
+      }
+    }
+  ],
+  "interestByRegion": [
+    {
+      "geoCode": "US-KS",
+      "geoName": "Kansas",
+      "values": {
+        "iphone": 95,
+        "samsung galaxy": 5
+      }
+    },
+    {
+      "geoCode": "US-HI",
+      "geoName": "Hawaii",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-CA",
+      "geoName": "California",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-NY",
+      "geoName": "New York",
+      "values": {
+        "iphone": 93,
+        "samsung galaxy": 7
+      }
+    },
+    {
+      "geoCode": "US-AK",
+      "geoName": "Alaska",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-GA",
+      "geoName": "Georgia",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-DC",
+      "geoName": "District of Columbia",
+      "values": {
+        "iphone": 95,
+        "samsung galaxy": 5
+      }
+    },
+    {
+      "geoCode": "US-LA",
+      "geoName": "Louisiana",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-MS",
+      "geoName": "Mississippi",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-TX",
+      "geoName": "Texas",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-NV",
+      "geoName": "Nevada",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-UT",
+      "geoName": "Utah",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-FL",
+      "geoName": "Florida",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-VA",
+      "geoName": "Virginia",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-CO",
+      "geoName": "Colorado",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-AZ",
+      "geoName": "Arizona",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-CT",
+      "geoName": "Connecticut",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-MD",
+      "geoName": "Maryland",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-NJ",
+      "geoName": "New Jersey",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-AL",
+      "geoName": "Alabama",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-TN",
+      "geoName": "Tennessee",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-AR",
+      "geoName": "Arkansas",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-IL",
+      "geoName": "Illinois",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-WA",
+      "geoName": "Washington",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-MA",
+      "geoName": "Massachusetts",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-PA",
+      "geoName": "Pennsylvania",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-NC",
+      "geoName": "North Carolina",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-DE",
+      "geoName": "Delaware",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-KY",
+      "geoName": "Kentucky",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-MI",
+      "geoName": "Michigan",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-RI",
+      "geoName": "Rhode Island",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-SC",
+      "geoName": "South Carolina",
+      "values": {
+        "iphone": 97,
+        "samsung galaxy": 3
+      }
+    },
+    {
+      "geoCode": "US-NM",
+      "geoName": "New Mexico",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-OK",
+      "geoName": "Oklahoma",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-OH",
+      "geoName": "Ohio",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-MN",
+      "geoName": "Minnesota",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-WV",
+      "geoName": "West Virginia",
+      "values": {
+        "iphone": 95,
+        "samsung galaxy": 5
+      }
+    },
+    {
+      "geoCode": "US-NH",
+      "geoName": "New Hampshire",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-MO",
+      "geoName": "Missouri",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-WY",
+      "geoName": "Wyoming",
+      "values": {
+        "iphone": 95,
+        "samsung galaxy": 5
+      }
+    },
+    {
+      "geoCode": "US-OR",
+      "geoName": "Oregon",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-ME",
+      "geoName": "Maine",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-IN",
+      "geoName": "Indiana",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-ID",
+      "geoName": "Idaho",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-MT",
+      "geoName": "Montana",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-NE",
+      "geoName": "Nebraska",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-VT",
+      "geoName": "Vermont",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-ND",
+      "geoName": "North Dakota",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-IA",
+      "geoName": "Iowa",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-WI",
+      "geoName": "Wisconsin",
+      "values": {
+        "iphone": 96,
+        "samsung galaxy": 4
+      }
+    },
+    {
+      "geoCode": "US-SD",
+      "geoName": "South Dakota",
+      "values": {
+        "iphone": 95,
+        "samsung galaxy": 5
+      }
+    }
+  ],
+  "relatedQueries": {
+    "iphone": {
+      "top": [
+        {
+          "query": "iphone 18",
+          "value": 100,
+          "formattedValue": "100"
+        },
+        {
+          "query": "iphone 17",
+          "value": 68,
+          "formattedValue": "68"
+        },
+        {
+          "query": "iphone 18 pro",
+          "value": 58,
+          "formattedValue": "58"
+        },
+        {
+          "query": "apple iphone",
+          "value": 53,
+          "formattedValue": "53"
+        },
+        {
+          "query": "apple",
+          "value": 52,
+          "formattedValue": "52"
+        },
+        {
+          "query": "iphone duo",
+          "value": 42,
+          "formattedValue": "42"
+        },
+        {
+          "query": "iphone 17 pro",
+          "value": 38,
+          "formattedValue": "38"
+        },
+        {
+          "query": "new iphone",
+          "value": 38,
+          "formattedValue": "38"
+        },
+        {
+          "query": "iphone pro max 18",
+          "value": 38,
+          "formattedValue": "38"
+        },
+        {
+          "query": "iphone 16",
+          "value": 37,
+          "formattedValue": "37"
+        },
+        {
+          "query": "iphone 15",
+          "value": 28,
+          "formattedValue": "28"
+        },
+        {
+          "query": "iphone 17 pro max",
+          "value": 24,
+          "formattedValue": "24"
+        },
+        {
+          "query": "iphone 13",
+          "value": 21,
+          "formattedValue": "21"
+        },
+        {
+          "query": "iphone 14",
+          "value": 20,
+          "formattedValue": "20"
+        },
+        {
+          "query": "find my iphone",
+          "value": 16,
+          "formattedValue": "16"
+        },
+        {
+          "query": "iphone 16 pro",
+          "value": 15,
+          "formattedValue": "15"
+        },
+        {
+          "query": "iphone 12",
+          "value": 13,
+          "formattedValue": "13"
+        },
+        {
+          "query": "iphone 15 pro",
+          "value": 12,
+          "formattedValue": "12"
+        },
+        {
+          "query": "iphone 11",
+          "value": 11,
+          "formattedValue": "11"
+        },
+        {
+          "query": "iphone air",
+          "value": 11,
+          "formattedValue": "11"
+        },
+        {
+          "query": "iphone charger",
+          "value": 9,
+          "formattedValue": "9"
+        },
+        {
+          "query": "iphone 14 pro",
+          "value": 9,
+          "formattedValue": "9"
+        },
+        {
+          "query": "iphone 16 pro max",
+          "value": 8,
+          "formattedValue": "8"
+        },
+        {
+          "query": "iphone se",
+          "value": 7,
+          "formattedValue": "7"
+        },
+        {
+          "query": "iphone 17 case",
+          "value": 7,
+          "formattedValue": "7"
+        }
+      ],
+      "rising": [
+        {
+          "query": "iphone duo release date",
+          "value": 13150,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "iphone duo pre order",
+          "value": 9750,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "iphone 18 duo",
+          "value": 6950,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "tmobile iphone duo",
+          "value": 6400,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "iphone dup",
+          "value": 4100,
+          "formattedValue": "+4,100%"
+        },
+        {
+          "query": "burgundy iphone 18",
+          "value": 3350,
+          "formattedValue": "+3,350%"
+        },
+        {
+          "query": "when does the iphone duo come out",
+          "value": 3300,
+          "formattedValue": "+3,300%"
+        },
+        {
+          "query": "iphone duo reddit",
+          "value": 3250,
+          "formattedValue": "+3,250%"
+        },
+        {
+          "query": "iphone duo price",
+          "value": 3250,
+          "formattedValue": "+3,250%"
+        },
+        {
+          "query": "how much is the iphone duo",
+          "value": 3000,
+          "formattedValue": "+3,000%"
+        },
+        {
+          "query": "iphone duo cases",
+          "value": 2850,
+          "formattedValue": "+2,850%"
+        },
+        {
+          "query": "verizon iphone duo",
+          "value": 2750,
+          "formattedValue": "+2,750%"
+        },
+        {
+          "query": "iphone duo",
+          "value": 2650,
+          "formattedValue": "+2,650%"
+        },
+        {
+          "query": "dbrand iphone duo",
+          "value": 1950,
+          "formattedValue": "+1,950%"
+        },
+        {
+          "query": "iphone 18 pro case",
+          "value": 1350,
+          "formattedValue": "+1,350%"
+        },
+        {
+          "query": "iphone 18 pro max case",
+          "value": 1300,
+          "formattedValue": "+1,300%"
+        },
+        {
+          "query": "samsung galaxy z fold 8 vs iphone duo",
+          "value": 1300,
+          "formattedValue": "+1,300%"
+        },
+        {
+          "query": "iphone duo review",
+          "value": 1050,
+          "formattedValue": "+1,050%"
+        },
+        {
+          "query": "iphone duo case",
+          "value": 850,
+          "formattedValue": "+850%"
+        },
+        {
+          "query": "best iphone duo case",
+          "value": 800,
+          "formattedValue": "+800%"
+        },
+        {
+          "query": "new iphone duo",
+          "value": 800,
+          "formattedValue": "+800%"
+        },
+        {
+          "query": "iphone duo screen crack",
+          "value": 750,
+          "formattedValue": "+750%"
+        },
+        {
+          "query": "apple iphone duo sold out",
+          "value": 700,
+          "formattedValue": "+700%"
+        },
+        {
+          "query": "iphone duo reviews",
+          "value": 650,
+          "formattedValue": "+650%"
+        },
+        {
+          "query": "iphone 18 pro vs pro max",
+          "value": 650,
+          "formattedValue": "+650%"
+        }
+      ]
+    },
+    "samsung galaxy": {
+      "top": [
+        {
+          "query": "samsung galaxy ultra",
+          "value": 100,
+          "formattedValue": "100"
+        },
+        {
+          "query": "samsung galaxy phone",
+          "value": 79,
+          "formattedValue": "79"
+        },
+        {
+          "query": "samsung galaxy s26",
+          "value": 63,
+          "formattedValue": "63"
+        },
+        {
+          "query": "samsung s26",
+          "value": 61,
+          "formattedValue": "61"
+        },
+        {
+          "query": "galaxy s26",
+          "value": 61,
+          "formattedValue": "61"
+        },
+        {
+          "query": "samsung galaxy watch",
+          "value": 46,
+          "formattedValue": "46"
+        },
+        {
+          "query": "samsung watch",
+          "value": 45,
+          "formattedValue": "45"
+        },
+        {
+          "query": "samsung galaxy fold",
+          "value": 39,
+          "formattedValue": "39"
+        },
+        {
+          "query": "samsung fold",
+          "value": 38,
+          "formattedValue": "38"
+        },
+        {
+          "query": "galaxy s26 ultra",
+          "value": 35,
+          "formattedValue": "35"
+        },
+        {
+          "query": "samsung galaxy s26 ultra",
+          "value": 34,
+          "formattedValue": "34"
+        },
+        {
+          "query": "iphone",
+          "value": 33,
+          "formattedValue": "33"
+        },
+        {
+          "query": "samsung galaxy s25",
+          "value": 32,
+          "formattedValue": "32"
+        },
+        {
+          "query": "samsung galaxy tab",
+          "value": 30,
+          "formattedValue": "30"
+        },
+        {
+          "query": "samsung galaxy z fold",
+          "value": 26,
+          "formattedValue": "26"
+        },
+        {
+          "query": "samsung galaxy fold 8",
+          "value": 25,
+          "formattedValue": "25"
+        },
+        {
+          "query": "samsung galaxy s24",
+          "value": 22,
+          "formattedValue": "22"
+        },
+        {
+          "query": "samsung galaxy z fold 8",
+          "value": 19,
+          "formattedValue": "19"
+        },
+        {
+          "query": "galaxy z fold 8",
+          "value": 19,
+          "formattedValue": "19"
+        },
+        {
+          "query": "samsung galaxy s23",
+          "value": 18,
+          "formattedValue": "18"
+        },
+        {
+          "query": "samsung phones",
+          "value": 16,
+          "formattedValue": "16"
+        },
+        {
+          "query": "samsung galaxy tablet",
+          "value": 16,
+          "formattedValue": "16"
+        },
+        {
+          "query": "samsung tablet",
+          "value": 16,
+          "formattedValue": "16"
+        },
+        {
+          "query": "samsung galaxy phones",
+          "value": 15,
+          "formattedValue": "15"
+        },
+        {
+          "query": "samsung galaxy a16",
+          "value": 15,
+          "formattedValue": "15"
+        }
+      ],
+      "rising": [
+        {
+          "query": "samsung galaxy z fold 8 vs iphone duo",
+          "value": 29350,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "samsung galaxy watch sleep coaching update",
+          "value": 18100,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "samsung galaxy sidekick 2027",
+          "value": 11150,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "samsung galaxy z fold 9 leak",
+          "value": 5950,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "samsung galaxy s27 ultra screen upgrade",
+          "value": 5150,
+          "formattedValue": "Breakout"
+        },
+        {
+          "query": "samsung galaxy s27 ultra redesign",
+          "value": 4600,
+          "formattedValue": "+4,600%"
+        },
+        {
+          "query": "samsung galaxy sidekick",
+          "value": 950,
+          "formattedValue": "+950%"
+        },
+        {
+          "query": "samsung galaxy z fold8 ultra",
+          "value": 950,
+          "formattedValue": "+950%"
+        },
+        {
+          "query": "samsung galaxy z fold8",
+          "value": 900,
+          "formattedValue": "+900%"
+        },
+        {
+          "query": "shop deals on samsung galaxy s26 ultra phone",
+          "value": 800,
+          "formattedValue": "+800%"
+        },
+        {
+          "query": "samsung galaxy z fold 8 case",
+          "value": 600,
+          "formattedValue": "+600%"
+        },
+        {
+          "query": "samsung galaxy z flip8",
+          "value": 450,
+          "formattedValue": "+450%"
+        },
+        {
+          "query": "samsung galaxy z fold 8 ultra",
+          "value": 450,
+          "formattedValue": "+450%"
+        },
+        {
+          "query": "samsung galaxy fold 8",
+          "value": 400,
+          "formattedValue": "+400%"
+        },
+        {
+          "query": "samsung galaxy z fold 8",
+          "value": 300,
+          "formattedValue": "+300%"
+        },
+        {
+          "query": "samsung galaxy s27 ultra leaks",
+          "value": 300,
+          "formattedValue": "+300%"
+        },
+        {
+          "query": "galaxy z fold 8",
+          "value": 300,
+          "formattedValue": "+300%"
+        },
+        {
+          "query": "samsung galaxy s27 ultra",
+          "value": 300,
+          "formattedValue": "+300%"
+        },
+        {
+          "query": "samsung galaxy s26 fe",
+          "value": 250,
+          "formattedValue": "+250%"
+        },
+        {
+          "query": "samsung galaxy s27",
+          "value": 250,
+          "formattedValue": "+250%"
+        },
+        {
+          "query": "samsung galaxy z flip 8",
+          "value": 200,
+          "formattedValue": "+200%"
+        },
+        {
+          "query": "shop deals on samsung galaxy s26 smartphone",
+          "value": 190,
+          "formattedValue": "+190%"
+        },
+        {
+          "query": "samsung galaxy flip 8",
+          "value": 180,
+          "formattedValue": "+180%"
+        },
+        {
+          "query": "shop deals on samsung galaxy s26 ultra",
+          "value": 170,
+          "formattedValue": "+170%"
+        },
+        {
+          "query": "samsung galaxy fold",
+          "value": 170,
+          "formattedValue": "+170%"
+        }
+      ]
+    }
+  },
+  "scrapedAt": "2026-11-03T08:01:28.770Z"
+}]

@@ -1,0 +1,13 @@
+{
+  "name": "google-trends-api-client",
+  "version": "0.1.0",
+  "description": "Google Trends API for JavaScript: interest over time, by region and related queries. Maintained, no dependencies.",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": "./index.mjs",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test test.mjs" },
+  "keywords": ["google trends", "google trends api", "google-trends-api", "trends", "seo", "keyword research"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/carterprice2/google-trends-api.git", "directory": "js" }
+}
