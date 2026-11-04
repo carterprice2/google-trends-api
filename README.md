@@ -30,10 +30,10 @@ date
 ## How it works, and what it costs
 Google has no public Trends API, and its website rate-limits scripts quickly. That's why pytrends users hit `429 Too Many Requests` constantly.
 
-This library doesn't call Google from your machine. Each call starts a run of a hosted scraper, [Google Trends Scraper on Apify](https://apify.com/seodatalab/google-trends-scraper), which handles rotating IPs, retries and backoff. The library then returns the results.
+This library doesn't call Google from your machine. Each call starts a run of a hosted scraper, [Google Trends Scraper on Apify](https://apify.com/seodatalab/google-trends-scraper?fpr=fi898m), which handles rotating IPs, retries and backoff. The library then returns the results.
 
 **You need a free Apify account and its API token:**
-1. Sign up at [apify.com](https://apify.com).
+1. Sign up at [apify.com](https://apify.com?fpr=fi898m).
 2. Copy the token from *Settings → API & Integrations*.
 3. Set it with `export APIFY_TOKEN=...`.
 
@@ -45,7 +45,7 @@ This library doesn't call Google from your machine. Each call starts a run of a 
 - Failed queries aren't charged.
 - Apify's free plan includes monthly credit, which covers casual use.
 
-*Disclosure: the maintainer of this repo also publishes that scraper. The client code is MIT, and you can point it at any actor with the same input (`actor=`).*
+*Disclosure: the maintainer of this repo also publishes that scraper. The client code is MIT, and you can point it at any actor with the same input (`actor=`). Links to apify.com include my referral code, so Apify may pay me a commission if you sign up. It doesn't change your price.*
 
 ## Install
 ```bash

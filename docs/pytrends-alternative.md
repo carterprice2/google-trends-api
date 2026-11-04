@@ -49,7 +49,7 @@ export APIFY_TOKEN=...   # free account at apify.com, then Settings → API & In
 ```
 
 ## Why it doesn't hit 429
-Your code never calls Google directly. Each call starts a run of a hosted scraper ([Google Trends Scraper on Apify](https://apify.com/seodatalab/google-trends-scraper)):
+Your code never calls Google directly. Each call starts a run of a hosted scraper ([Google Trends Scraper on Apify](https://apify.com/seodatalab/google-trends-scraper?fpr=fi898m)):
 - It spreads requests over rotating IPs.
 - It backs off and retries.
 - It only returns a result once Google has actually answered.
@@ -72,4 +72,4 @@ rows = gt.fetch([f"{city} weather" for city in ["london", "paris", "berlin", "ma
 - **Not ported (yet):** `suggestions`, `realtime_trending_searches`, `top_charts`. For today's trending searches, see [trending searches in Python](trending-searches-python.md).
 - **Rising related queries are filtered.** Google sometimes slips unrelated "rising" queries into answers it gives to automated traffic. We've seen "cloud storage pricing" listed as rising for *standing desk*. The scraper removes lists like that and reports how many it dropped in `risingRemoved`. So rising lists can be shorter than on the website, but what's there is real.
 
-*Disclosure: I maintain this library and the Apify scraper it calls.*
+*Disclosure: I maintain this library and the Apify scraper it calls. Links to apify.com include my referral code, so Apify may pay me a commission if you sign up. It doesn't change your price.*

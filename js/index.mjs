@@ -7,7 +7,7 @@ export class TrendsError extends Error {}
 
 export class GoogleTrends {
     constructor({ token = globalThis.process?.env?.APIFY_TOKEN, actor = 'seodatalab~google-trends-scraper', timeoutMs = 900_000 } = {}) {
-        if (!token) throw new TrendsError('No Apify token. Create a free account at https://apify.com and pass { token } or set APIFY_TOKEN.');
+        if (!token) throw new TrendsError('No Apify token. Create a free account at https://apify.com?fpr=fi898m and pass { token } or set APIFY_TOKEN.');
         Object.assign(this, { token, actor, timeoutMs });
     }
 

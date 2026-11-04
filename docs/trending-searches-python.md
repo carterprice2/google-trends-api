@@ -59,4 +59,4 @@ Each item also includes:
 - $0.02 per run plus $0.50 per 1,000 trends returned.
 - The run above (6 trends) cost about $0.023.
 
-*Disclosure: I maintain the Google Trending Now actor used here.*
+*Disclosure: I maintain the Google Trending Now actor used here. Links to apify.com include my referral code, so Apify may pay me a commission if you sign up. It doesn't change your price.*
