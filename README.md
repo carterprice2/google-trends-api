@@ -8,6 +8,10 @@ A maintained way to get Google Trends data from code, after [pytrends](https://g
 
 It works for any country, time range and search vertical (Web, YouTube, News, Images, Shopping).
 
+![Demo: pytrends-style code comparing chatgpt, gemini and claude](assets/demo.gif)
+
+**Guides:** [pytrends alternative: fixing 429 errors](docs/pytrends-alternative.md) · [Google's trending searches in Python](docs/trending-searches-python.md)
+
 ```python
 from google_trends_api import TrendReq   # was: from pytrends.request import TrendReq
 
