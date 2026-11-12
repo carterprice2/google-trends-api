@@ -44,7 +44,7 @@ date
 
 **Install and set a token:**
 ```bash
-pip install "google-trends-api[pandas] @ git+https://github.com/carterprice2/google-trends-api"
+pip install "pytrends-alt[pandas]"
 export APIFY_TOKEN=...   # free account at apify.com, then Settings → API & Integrations
 ```
 

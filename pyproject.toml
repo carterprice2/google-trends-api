@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "google-trends-api"
+name = "pytrends-alt"
 version = "0.1.0"
 description = "Google Trends API for Python: a maintained pytrends alternative (interest over time, by region, related queries)"
 readme = "README.md"

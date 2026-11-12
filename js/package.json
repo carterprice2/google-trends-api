@@ -1,5 +1,5 @@
 {
-  "name": "google-trends-api-client",
+  "name": "gtrends-client",
   "version": "0.1.0",
   "description": "Google Trends API for JavaScript: interest over time, by region and related queries. Maintained, no dependencies.",
   "type": "module",

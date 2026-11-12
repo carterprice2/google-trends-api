@@ -8,9 +8,9 @@ A maintained way to get Google Trends data from code, after [pytrends](https://g
 
 It works for any country, time range and search vertical (Web, YouTube, News, Images, Shopping).
 
-![Demo: pytrends-style code comparing chatgpt, gemini and claude](assets/demo.gif)
+![Demo: pytrends-style code comparing chatgpt, gemini and claude](https://raw.githubusercontent.com/carterprice2/google-trends-api/main/assets/demo.gif)
 
-**Guides:** [pytrends alternative: fixing 429 errors](docs/pytrends-alternative.md) · [Google's trending searches in Python](docs/trending-searches-python.md)
+**Guides:** [pytrends alternative: fixing 429 errors](https://github.com/carterprice2/google-trends-api/blob/main/docs/pytrends-alternative.md) · [Google's trending searches in Python](https://github.com/carterprice2/google-trends-api/blob/main/docs/trending-searches-python.md)
 
 ```python
 from google_trends_api import TrendReq   # was: from pytrends.request import TrendReq
@@ -49,11 +49,13 @@ This library doesn't call Google from your machine. Each call starts a run of a 
 
 ## Install
 ```bash
-pip install "google-trends-api[pandas] @ git+https://github.com/carterprice2/google-trends-api"
+pip install "pytrends-alt[pandas]"
 ```
 The core client has no dependencies. Pandas is only needed for the pytrends-compatible `TrendReq`.
 
-For JavaScript (Node 18+), copy [`js/index.mjs`](js/index.mjs). It's a single file with no dependencies.
+For JavaScript (Node 18+): `npm install gtrends-client`, or copy [`js/index.mjs`](https://github.com/carterprice2/google-trends-api/blob/main/js/index.mjs). It's a single file with no dependencies.
+
+The package is named `pytrends-alt` on PyPI; you still `import google_trends_api`.
 
 ## Python
 ### Migrating from pytrends
